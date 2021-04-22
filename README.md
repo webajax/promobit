@@ -65,10 +65,10 @@ Click Send
 
 In Postman choose: Body - raw - type json
 
-# url:  "http://localhost:8000/user/delete"
+**url:  "http://localhost:8000/user/delete"**
 
 {
-  "email": "andre@webajax.com.br"
+  "email": "youremail"
 }
 
 
