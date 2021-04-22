@@ -349,7 +349,7 @@ class UserService
                 ->setBody($body,'text / html'); */
 
           $email = (new Email())
-            ->from('suportebravocorp@gmail.com')
+            ->from('somicro@ig.com.br')
             ->to('andre@webajax.com.br')
             //->cc('cc@example.com')
             //->bcc('bcc@example.com')

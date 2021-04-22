@@ -229,19 +229,6 @@ class UserController  {
 	    echo "<pre>" ,print_r($userService);
 	    exit;
 
-	    if($userService->getSuccess()){
-
-	    	$userService = array(
-	    		"Success:"=> $userService->getSuccess(),
-	    		"Mesage:" => $userService->getMessage() 
-	    	);
-
-	    }else{
-
-	    	$userService = array(
-	    		"Success:"=> $userService->getSuccess(),
-	    		"Message:" => $userService->getMessage() 
-	    	);
 
 	    }
 
