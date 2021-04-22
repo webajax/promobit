@@ -52,7 +52,7 @@ name pass and email alter only this fields
 if alter username alter username and email
 
 Click Send
- if succcess: 
+ >if succcess: 
  
 {
     "Success:": true,
@@ -74,7 +74,7 @@ In Postman choose: Body - raw - type json
 
 
 Click Send
- if succcess: 
+ >if succcess: 
  
 {
     "Success:": true,
@@ -96,7 +96,7 @@ In Postman choose: Body - raw - type json
 
 
 Click Send
- if succcess: 
+ >if succcess: 
  
 {
     "Success:": true,
