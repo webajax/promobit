@@ -22,7 +22,6 @@ In Postman choose: Body - raw - type json
   "name" : "yourname",
   "pass" : "yourpass",
   "email": "youremail"
-
 }
 
 Click Send
@@ -92,7 +91,6 @@ In Postman choose: Body - raw - type json
 {
   "email": "youremail",
   "pass" : "yourpass"
-
 }
 
 
