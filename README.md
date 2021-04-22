@@ -9,7 +9,9 @@ php 7.2 or ^
 2. composer install 
 3. run system : symfony server:start
 4. Postman type: localhost::8000 
-5. file promobit.sql import workbench 
+5. file promobit.sql import workbench
+6. ".env"  alter: "DATABASE_URL="mysql://root:yourpassbd@127.0.0.1:3306/promobit?serverVersion=5.7"
+7.  In "config/packcages/doctrine.yaml"  - alter your bd pass 
 
 #----------------------------------------------------------
 **Add User (Method = POST)**
