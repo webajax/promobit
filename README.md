@@ -3,7 +3,7 @@
 Requeriments:
 php 7.2 or ^
 
-Instalation:
+# Instalation:
 
 1 - clone project
 2 - composer install 
@@ -12,11 +12,11 @@ Instalation:
 5 - file promobit.sql import workbench 
 
 #----------------------------------------------------------
-Add User (Method = POST)
+# Add User (Method = POST)
 
 In Postman choose: Body - raw - type json
 
-url:  "http://localhost::8000/user/add"
+# url:  "http://localhost::8000/user/add"
 
 {
   "name" : "yourname",
@@ -40,7 +40,7 @@ Update User (Method = POST)
 
 In Postman choose: Body - raw - type json
 
-url:  "http://localhost:8000/user/update"
+# url:  "http://localhost:8000/user/update"
 
 {
   "name" : "yourname",
@@ -62,7 +62,7 @@ Click Send
 #--------------------------------------------------------
 
 #----------------------------------------------------------
-Delete User (Method = POST)
+# Delete User (Method = POST)
 
 In Postman choose: Body - raw - type json
 
