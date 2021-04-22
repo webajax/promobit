@@ -35,7 +35,7 @@ Click Send
 
 
 #----------------------------------------------------------
-Update User (Method = POST)
+**Update User (Method = POST)**
 
 In Postman choose: Body - raw - type json
 
