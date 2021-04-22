@@ -25,7 +25,7 @@ In Postman choose: Body - raw - type json
 }
 
 Click Send
- if succcess: 
+ >if succcess: 
  
 {
     "Success:": true,
