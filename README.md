@@ -16,7 +16,7 @@ php 7.2 or ^
 
 In Postman choose: Body - raw - type json
 
-# url:  "http://localhost::8000/user/add"
+# url:  "http://localhost:8000/user/add"
 
 {
   "name" : "yourname",
